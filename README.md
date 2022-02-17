@@ -1,1 +1,1 @@
-# odin-recipes
+In this project I'm going to demonstrate my ability to create a basic HTML website. Using various elements I can create: headings, lists, pictures and links to and from webpages on the site. Along the way I'll be making use of GIT to keep a detailed history of my changes and secure my project files.  # odin-recipes
